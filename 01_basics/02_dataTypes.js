@@ -6,5 +6,5 @@ console.log(typeof(isloggedIn));
 
 console.log(typeof null);
 
-
+ console.log(typeof undefined);
 
